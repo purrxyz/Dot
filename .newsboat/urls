@@ -1,0 +1,88 @@
+FSF:
+https://static.fsf.org/fsforg/rss/blogs.xml "~FSF blogs (Blog)"
+https://static.fsf.org/fsforg/rss/news.xml "~FSF news (News)"
+https://static.fsf.org/fsforg/rss/events.xml "~FSF events (Events)"
+https://stallman.org/rss/rss.xml "~Richard Stallman (Political Notes)"
+
+Linux:
+https://lukesmith.xyz/rss.xml "~Luke Smith (Webpage)"
+https://www.archlinux.org/feeds/news/ "~Arch linux (News)"
+https://www.linux.org/forums/-/index.rss "~Linux.org (Forum)"
+https://opensource.com/feed "~Opensource (News)"
+https://tecmint.com/feed "~Tecmint (News, Tutors)"
+https://feeds.feedburner.com/linuxtoday/linux "~Linuxtoday (News)"
+https://www.linuxinsider.com/perl/syndication/rssfull.pl "~Linux Insider (News)"
+https://www.itworld.com/index.rss "~IT world (News)"
+http://lxer.com/module/newswire/headlines.rss "~LXer (News)"
+https://www.linuxnewssite.com/feed "~Linux News Site (News)"
+https://feeds.feedburner.com/Ostechnix "~OSTechNix (News)"
+https://feeds.feedburner.com/noobslab "~NoobsLab (News, Tutors)"
+http://www.ocsmag.com/feed "~OCS-Mag (News)"
+https://news.softpedia.com/newsRSS/Linux-7.xml "~Softpedia News (News)"
+https://www.unixmen.com/feed "~Unixmen (News, Tutors)"
+https://www.cronweekly.com/feed "~Cron.weekly (News, Tutors)"
+http://techrights.org/feed "~Tech Rights (News)"
+
+Reddit:
+https://www.reddit.com/r/unixporn/.rss "~Unixporn (Reddit)"
+https://www.reddit.com/r/Conkyporn/.rss "~Conkyporn (Reddit)"
+https://www.reddit.com/r/UsabilityPorn/.rss "~UsabilityPorn (Reddit)"
+https://www.reddit.com/r/trisquel/.rss "~Trisquel (Reddit)"
+https://www.reddit.com/r/UnixHumor/.rss "~UnixHumor (Reddit)"
+https://www.reddit.com/r/ProgrammerHumor/.rss "~ProgrammerHumor (Reddit)"
+https://www.reddit.com/r/linuxmasterrace/.rss "~linuxmasterrace (Reddit)"
+https://www.reddit.com/r/pgp/.rss "~pgp (Reddit)"
+https://www.reddit.com/r/linux/.rss "~linux ()Reddit"
+https://www.reddit.com/r/linux_gaming/.rss "~linux_gaming (Reddit)"
+https://www.reddit.com/r/arduino/.rss "~arduino (Reddit)"
+https://www.reddit.com/r/raspberry_pi/.rss?format=xml "~raspberry_pi (Reddit)"
+
+Electronics:
+http://embedded-lab.com/blog/category/raspberry-pie/feed "~Embedded Lab (Blog)"
+
+Arduino:
+https://blog.arduino.cc/feed "~Arduino (Blog)"
+https://blog.adafruit.com/category/arduino/feed "~Adafruit Arduino (Blog)"
+https://makezine.com/category/technology/arduino/feed "~Makezine Arduino (Blog)"
+https://hackaday.com/category/arduino-hacks/feed "~Hackaday Arduino (Blog)"
+https://blog.adafruit.com/category/raspberry-pi/feed "~Adafruit Raspberry Pi (Blog)"
+https://hackaday.com/category/raspberry-pi-2/feed/ "~Hackaday Raspberry Pi (Blog)" 
+
+Raspberry pi:
+https://www.raspberrypi.org/blog/feed "~Raspberry Pi (Blog)"
+https://www.raspberrypi-spy.co.uk/feed/ "~Raspberrypi-spy (Blog)"
+https://hackaday.com/category/raspberry-pi-2/feed/ "~Hackaday Raspberry Pi (Blog)"
+http://www.electronics-lab.com/category/raspberry-pi/feed "~Electroinics Lab Raspberry Pi (Blog)"
+http://raspberrypimaker.com/feed "~Raspberry Pi Maker (Blog)"
+https://www.raspberrypi.org/feed "~Raspberry Pi (Webpage)"
+https://raspberrypituts.com/feed "~Raspberry Pi Tutorials (Webpage)"
+
+News:
+#https://0day.today/rss "~0day (News)"
+http://rss.slashdot.org/Slashdot/slashdotMain "~Slashdot (News)"
+https://www.amnesty.org/en/rss "~Amnesty International (News)"
+
+Youtube:
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q "~The Hated One (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distro Tube (Youtbe)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6-ymYjG0SU0jUWnWh9ZzEQ "~Wisecrack (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ "~LGR (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8uT9cgJorJPWu7ITLGo9Ww "~8-bit guy (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "~Coputerphile (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA "~Explaining Computers (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg "~Al-Jazeera (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCn8zNIfYAQNdrFRrr8oibKw "~Vice (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfQDD-pbllOCXHYwiXxjJxA "~Broadly (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9ISPZsMaBi5mutsgX6LC1g "~I-D (Youtube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB6PV0cvJpzlcXRG7nz6PpQ "~Motherboard (Youtube)"
+https://www.youtube.com/feeds/videos.xml?user=TheRaspberryPiGuy "~The Raspberry Pi Guy (Youtube)"
+https://www.youtube.com/feeds/videos.xml?user=RaspberryPiBeginners "~Raspberry Pi Beginners (Youtube)"
+
+BitChute:
+https://www.bitchute.com/feeds/rss/channel/thehatedone "~The hated one(Bitchute)"
+https://www.bitchute.com/feeds/rss/channel/eevblog "~EEVblog (Bitchute)"
+https://www.bitchute.com/feeds/rss/channel/lukesmith "~Luke Smith (Bitchute)"
+https://www.bitchute.com/feeds/rss/channel/switchedtolinux "~Switched to Linux (Bitchute)"
+https://www.bitchute.com/feeds/rss/channel/quidsup "~QuidsUp (Bitchute)"
+https://www.bitchute.com/feeds/rss/channel/theouterlinux "~The Outer Linux (Bitchute)"
