@@ -1,0 +1,632 @@
+Jul 09 22:13 : errno: Failed to open /home/sepia/.config/mpd/state: No such file or directory
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/01 Nuke.mp3
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/02 Intrusion.mp3
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/04 Manhattan lights.mp3
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/05 Celestial squad.mp3
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/06 Intermission.mp3
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/07 Nuclear sunday.mp3
+Jul 09 22:13 : update: added 3FORCE/2015 - Intergalactic/08 Intergalactic.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/01 Neoguard.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/02 Clampdown.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/03 Resistance.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/04 Whisper protocol.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/05 Grand design.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/06 Cliffhanger.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/07 Zero day union.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/08 Suppress it.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/09 Rebellion.mp3
+Jul 09 22:13 : update: added 3FORCE/2017 - Resistance/10 The better world.mp3
+Jul 09 22:13 : avahi: Service 'Music Player' successfully established.
+Jul 09 22:33 : errno: Failed to open /home/sepia/.config/mpd/state: No such file or directory
+Jul 09 22:33 : avahi: Service 'Music Player' successfully established.
+Jul 09 22:53 : avahi: Service 'Music Player' successfully established.
+Jul 10 02:45 : avahi: Client Disconnected, will reconnect shortly
+Jul 10 02:45 : log: error re-opening log file: /home/sepia/.config/mpd/log
+Jul 10 02:45 : errno: Failed to create /home/sepia/.config/mpd/state: No such file or directory
+Jul 10 02:49 : avahi: Service 'Music Player' successfully established.
+Jul 10 02:50 : client: [0] opened from 127.0.0.1:55050
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/02 Intrusion.mp3"
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3"
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/04 Manhattan lights.mp3"
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/05 Celestial squad.mp3"
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/06 Intermission.mp3"
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/07 Nuclear sunday.mp3"
+Jul 10 02:51 : player: played "3FORCE/2015 - Intergalactic/08 Intergalactic.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/01 Neoguard.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/02 Clampdown.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/03 Resistance.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/04 Whisper protocol.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/05 Grand design.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/06 Cliffhanger.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/07 Zero day union.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Jul 10 02:51 : player: played "3FORCE/2017 - Resistance/09 Rebellion.mp3"
+Jul 10 02:55 : player: played "3FORCE/2017 - Resistance/10 The better world.mp3"
+Jul 10 03:01 : client: [1] opened from 127.0.0.1:55142
+Jul 10 03:03 : client: [0] closed
+Jul 10 03:03 : client: [1] closed
+Jul 10 03:07 : client: [2] opened from 127.0.0.1:55236
+Jul 10 03:09 : client: [2] closed
+Jul 10 03:15 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 03:23 : avahi: Service 'Music Player' successfully established.
+Jul 10 03:44 : update: added Future Holotape/2014 - Analog renegades/11 Belladonna.mp3
+Jul 10 03:45 : update: updating Future Holotape/2014 - Analog renegades/11 Belladonna.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/03 Light racer.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/08 Life sequence.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/13 Renegade.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/05 Summer in love.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/10 The discotech.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/07 The lawgiver.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/12 Long hiver.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/04 Midnight revolver.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/09 Replicant.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3
+Jul 10 03:45 : update: added Future Holotape/2014 - Analog renegades/06 Moments in time.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/06 Outer limits.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/11 Resurrection.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/03 Rogue.mp3
+Jul 10 03:45 : update: updating Future Holotape/2017 - Terra district 1/03 Rogue.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/08 Dead eye.mp3
+Jul 10 03:45 : update: updating Future Holotape/2017 - Terra district 1/08 Dead eye.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/13 Indoctrinated.mp3
+Jul 10 03:45 : update: updating Future Holotape/2017 - Terra district 1/13 Indoctrinated.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/05 Data corrupt.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/10 Sentient.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/02 Cloak and dagger.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/07 Desolation.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/12 Paradox.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/04 Blood call.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/09 Proxy.mp3
+Jul 10 03:45 : update: added Future Holotape/2017 - Terra district 1/01 Terra district 1.mp3
+Jul 10 03:52 : update: added Hubrid/2016 - PROTOTYPE/10 Prototype.mp3
+Jul 10 03:52 : update: added Hubrid/2016 - PROTOTYPE/03 Nitro.mp3
+Jul 10 03:52 : update: added Hubrid/2016 - PROTOTYPE/07 Demon Road.mp3
+Jul 10 03:52 : update: added Hubrid/2016 - PROTOTYPE/12 Hubrid & Billy Mays - Overdrive.mp3
+Jul 10 03:53 : update: updating Hubrid/2016 - PROTOTYPE/12 Hubrid & Billy Mays - Overdrive.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/09 Pulsion.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/02 Odysee.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/06 Hot Pursuit.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/11 Strange Force (feat. Vulta).mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/04 Midnight Hunt.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/08 High Speed.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/01 Horizon.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/13 Hubrid & Billy Mays - Jupiter.mp3
+Jul 10 03:53 : update: added Hubrid/2016 - PROTOTYPE/05 Road Runner.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/06 HOT PURSUIT II.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/11 SURVIVING.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/03 QUEEN OF MADNESS.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/16 Pentode.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/08 LONELINESS.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/01 DARKWORLD.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/13 Disciples of the Night (HUBRID REMIX).mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/05 ARMY OF CYBER.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/10 LE RITUEL.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/02 FUSION (feat. Vulta & Dimi Kaye).mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/15 SADIQUE V2 (BONUS TRACK).mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/07 FUTURE FUNK.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/12 SADIQUE V1.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/04 METAL BOT (feat. ULYSSIO).mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/09 THE SLASHER.mp3
+Jul 10 03:53 : update: added Hubrid/2017 - THE DARKSYNTH/14 TIMELAPSE.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/02 - glomag - Pocket Calculator.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/15 - gwEm and Counter Reset - The Man-Machine (Die Mensch-Maschine).mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/07 - Oliver Wittchow - Kristallo.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/12 - Herbert Weixelbaum - Tanzmusik.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/04 - Role Model - Showroom Dummies.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/09 - firestARTer - Computer World (Computerwelt).mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/01 - Bacalao - The Robots (Die Roboter).mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/14 - Bit Shifter - Antenna.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/06 - David E. Sugar - Radioactivity.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/11 - Receptors - Trans-Europe Express.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/03 - Covox - Computer Love.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/08 - 8 Bit Weapon - Spacelab.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/13 - Bubblyfish - It's More Fun to Compute.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/05 - Nullsleep - The Model.mp3
+Jul 10 03:55 : update: added Various [2007] 8-Bit Operators The Music Of Kraftwerk (Performed On Vintage 8-Bit Video Game Systems)/10 - Neotericz - Electric Café.mp3
+Jul 10 03:59 : client: [0] opened from 127.0.0.1:48896
+Jul 10 04:00 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:06 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:07 : client: [0] closed
+Jul 10 04:07 : client: [1] opened from 127.0.0.1:48916
+Jul 10 04:07 : client: [1] closed
+Jul 10 04:07 : client: [2] opened from 127.0.0.1:48918
+Jul 10 04:16 : client: [2] closed
+Jul 10 04:16 : client: [3] opened from 127.0.0.1:48942
+Jul 10 04:16 : player: played "3FORCE/2015 - Intergalactic/06 Intermission.mp3"
+Jul 10 04:20 : player: played "3FORCE/2015 - Intergalactic/06 Intermission.mp3"
+Jul 10 04:23 : client: [3] closed
+Jul 10 04:23 : client: [4] opened from 127.0.0.1:48948
+Jul 10 04:24 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:25 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:25 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:25 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:27 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:30 : client: [4] closed
+Jul 10 04:30 : client: [5] opened from 127.0.0.1:48950
+Jul 10 04:30 : player: played "3FORCE/2017 - Resistance/10 The better world.mp3"
+Jul 10 04:32 : client: [5] closed
+Jul 10 04:32 : client: [6] opened from 127.0.0.1:48952
+Jul 10 04:34 : player: played "3FORCE/2017 - Resistance/10 The better world.mp3"
+Jul 10 04:35 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:35 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:35 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:35 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:36 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:36 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:36 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:36 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:36 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:37 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:39 : client: [6] closed
+Jul 10 04:39 : client: [7] opened from 127.0.0.1:48954
+Jul 10 04:39 : client: [7] closed
+Jul 10 04:40 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:46 : avahi: Service 'Music Player' successfully established.
+Jul 10 04:46 : client: [0] opened from 127.0.0.1:41428
+Jul 10 04:46 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 10 04:47 : client: [0] closed
+Jul 10 04:55 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 11 15:18 : avahi: Service 'Music Player' successfully established.
+Jul 11 15:32 : client: [0] opened from 127.0.0.1:38088
+Jul 11 15:33 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 11 15:35 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 11 15:35 : player: played "3FORCE/2015 - Intergalactic/02 Intrusion.mp3"
+Jul 11 15:35 : client: [0] closed
+Jul 11 17:22 : client: [1] opened from 127.0.0.1:38112
+Jul 11 17:23 : client: [1] closed
+Jul 11 17:26 : client: [2] opened from 127.0.0.1:38120
+Jul 11 17:26 : client: [2] closed
+Jul 11 18:20 : client: [3] opened from 127.0.0.1:38160
+Jul 11 18:21 : client: [3] closed
+Jul 11 18:22 : client: [4] opened from 127.0.0.1:38162
+Jul 11 18:23 : client: [4] closed
+Jul 11 19:22 : client: [5] opened from 127.0.0.1:38260
+Jul 11 19:22 : client: [5] closed
+Jul 11 19:25 : client: [6] opened from 127.0.0.1:38282
+Jul 11 19:26 : client: [6] closed
+Jul 11 19:51 : client: [7] opened from 127.0.0.1:38298
+Jul 11 19:51 : client: [7] closed
+Jul 12 17:31 : avahi: Service 'Music Player' successfully established.
+Jul 12 17:33 : avahi: Client Disconnected, will reconnect shortly
+Jul 12 23:08 : client: [0] opened from 127.0.0.1:49966
+Jul 12 23:08 : avahi: Service 'Music Player' successfully established.
+Jul 12 23:14 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 12 23:16 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jul 12 23:17 : client: [0] closed
+Jul 12 23:17 : client: [1] opened from 127.0.0.1:49968
+Jul 12 23:18 : player: played "Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3"
+Jul 12 23:20 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jul 12 23:22 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jul 12 23:22 : client: [1] closed
+Jul 12 23:22 : client: [2] opened from 127.0.0.1:49984
+Jul 12 23:24 : player: played "Future Holotape/2017 - Terra district 1/12 Paradox.mp3"
+Jul 12 23:26 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jul 12 23:28 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jul 12 23:35 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jul 12 23:49 : player: played "Future Holotape/2014 - Analog renegades/05 Summer in love.mp3"
+Jul 12 23:51 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 12 23:53 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jul 12 23:58 : player: played "Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3"
+Jul 13 00:00 : player: played "Future Holotape/2014 - Analog renegades/03 Light racer.mp3"
+Jul 13 00:06 : player: played "3FORCE/2017 - Resistance/01 Neoguard.mp3"
+Jul 13 00:27 : player: played "3FORCE/2017 - Resistance/02 Clampdown.mp3"
+Jul 13 00:33 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Jul 13 00:37 : player: played "3FORCE/2015 - Intergalactic/02 Intrusion.mp3"
+Jul 13 00:37 : client: [2] closed
+Jul 21 21:42 : avahi: Service 'Music Player' successfully established.
+Jul 21 21:43 : client: [0] opened from 127.0.0.1:50382
+Jul 21 21:49 : player: played "3FORCE/2017 - Resistance/05 Grand design.mp3"
+Jul 21 21:51 : player: played "3FORCE/2017 - Resistance/06 Cliffhanger.mp3"
+Jul 21 21:51 : client: [0] closed
+Jul 21 22:57 : avahi: Client Disconnected, will reconnect shortly
+Jul 29 23:22 : avahi: Service 'Music Player' successfully established.
+Jul 30 00:17 : avahi: Service 'Music Player' successfully established.
+Jul 30 03:51 : avahi: Client Disconnected, will reconnect shortly
+Jul 30 04:03 : avahi: Service 'Music Player' successfully established.
+Aug 04 20:08 : avahi: Service 'Music Player' successfully established.
+Aug 04 20:08 : client: [0] opened from 127.0.0.1:58296
+Aug 04 20:09 : client: [0] closed
+Aug 04 21:08 : avahi: Client Disconnected, will reconnect shortly
+Aug 05 02:41 : avahi: Service 'Music Player' successfully established.
+Aug 05 02:41 : client: [0] opened from 127.0.0.1:44346
+Aug 05 02:43 : player: played "3FORCE/2017 - Resistance/10 The better world.mp3"
+Aug 05 02:43 : client: [0] closed
+Aug 05 05:43 : avahi: Client Disconnected, will reconnect shortly
+Aug 06 02:58 : avahi: Service 'Music Player' successfully established.
+Aug 06 02:58 : client: [0] opened from 127.0.0.1:43784
+Aug 06 02:59 : client: [0] closed
+Aug 06 03:24 : client: [1] opened from 127.0.0.1:43862
+Aug 06 03:24 : client: [1] closed
+Aug 06 07:44 : avahi: Client Disconnected, will reconnect shortly
+Aug 06 17:59 : avahi: Service 'Music Player' successfully established.
+Aug 06 23:38 : avahi: Service 'Music Player' successfully established.
+Aug 06 23:41 : client: [0] opened from 127.0.0.1:39246
+Aug 06 23:48 : player: played "3FORCE/2017 - Resistance/05 Grand design.mp3"
+Aug 06 23:54 : player: played "3FORCE/2017 - Resistance/06 Cliffhanger.mp3"
+Aug 06 23:59 : player: played "3FORCE/2017 - Resistance/07 Zero day union.mp3"
+Aug 07 00:03 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 07 00:05 : client: [1] opened from 127.0.0.1:39334
+Aug 07 00:05 : client: [1] closed
+Aug 07 00:07 : player: played "3FORCE/2017 - Resistance/09 Rebellion.mp3"
+Aug 07 00:08 : client: [2] opened from 127.0.0.1:39338
+Aug 07 00:08 : client: [2] closed
+Aug 07 00:09 : client: [3] opened from 127.0.0.1:39342
+Aug 07 00:09 : player: played "3FORCE/2017 - Resistance/10 The better world.mp3"
+Aug 07 00:09 : client: [3] closed
+Aug 07 00:10 : client: [4] opened from 127.0.0.1:39344
+Aug 07 00:10 : client: [4] closed
+Aug 07 00:10 : client: [5] opened from 127.0.0.1:39346
+Aug 07 00:10 : client: [5] closed
+Aug 07 00:10 : client: [6] opened from 127.0.0.1:39348
+Aug 07 00:10 : client: [6] closed
+Aug 07 00:10 : client: [7] opened from 127.0.0.1:39350
+Aug 07 00:10 : client: [7] closed
+Aug 07 00:10 : client: [8] opened from 127.0.0.1:39352
+Aug 07 00:10 : client: [8] closed
+Aug 07 00:10 : client: [9] opened from 127.0.0.1:39354
+Aug 07 00:10 : client: [9] closed
+Aug 07 00:12 : client: [10] opened from 127.0.0.1:39356
+Aug 07 00:12 : client: [10] closed
+Aug 07 00:14 : client: [11] opened from 127.0.0.1:39364
+Aug 07 00:14 : client: [11] closed
+Aug 07 00:15 : player: played "3FORCE/2017 - Resistance/09 Rebellion.mp3"
+Aug 07 00:17 : client: [12] opened from 127.0.0.1:39368
+Aug 07 00:17 : client: [12] closed
+Aug 07 00:17 : client: [13] opened from 127.0.0.1:39372
+Aug 07 00:17 : client: [13] closed
+Aug 07 00:21 : client: [14] opened from 127.0.0.1:39388
+Aug 07 00:21 : client: [14] closed
+Aug 07 00:21 : client: [15] opened from 127.0.0.1:39392
+Aug 07 00:21 : client: [15] closed
+Aug 07 00:22 : client: [16] opened from 127.0.0.1:39394
+Aug 07 00:22 : client: [16] closed
+Aug 07 00:25 : client: [17] opened from 127.0.0.1:39396
+Aug 07 00:25 : client: [17] closed
+Aug 07 00:25 : client: [18] opened from 127.0.0.1:39398
+Aug 07 00:25 : client: [18] closed
+Aug 07 00:29 : client: [19] opened from 127.0.0.1:39402
+Aug 07 00:29 : client: [19] closed
+Aug 07 00:39 : client: [20] opened from 127.0.0.1:39404
+Aug 07 00:39 : client: [20] closed
+Aug 07 00:41 : client: [21] opened from 127.0.0.1:39406
+Aug 07 00:41 : client: [21] closed
+Aug 07 01:01 : client: [0] closed
+Aug 07 04:18 : avahi: Client Disconnected, will reconnect shortly
+Aug 07 04:18 : pulse_output: failed to connect the stream: Connection terminated
+Aug 07 04:18 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 07 20:27 : avahi: Service 'Music Player' successfully established.
+Aug 07 22:56 : avahi: Client Disconnected, will reconnect shortly
+Aug 07 22:56 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 07 22:57 : avahi: Service 'Music Player' successfully established.
+Aug 08 03:03 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 08 03:05 : avahi: Service 'Music Player' successfully established.
+Aug 08 03:20 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 08 03:21 : avahi: Service 'Music Player' successfully established.
+Aug 08 05:55 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 08 16:47 : avahi: Service 'Music Player' successfully established.
+Aug 09 02:58 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 09 03:00 : avahi: Service 'Music Player' successfully established.
+Aug 09 06:08 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 09 06:10 : avahi: Service 'Music Player' successfully established.
+Aug 09 06:11 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 09 20:02 : avahi: Service 'Music Player' successfully established.
+Aug 10 06:13 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 12 19:11 : avahi: Service 'Music Player' successfully established.
+Aug 13 00:37 : avahi: Client Disconnected, will reconnect shortly
+Aug 13 00:37 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 13 00:39 : avahi: Service 'Music Player' successfully established.
+Aug 13 06:24 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 15 01:19 : avahi: Service 'Music Player' successfully established.
+Aug 15 02:56 : client: [0] opened from 127.0.0.1:57382
+Aug 15 02:58 : client: [0] closed
+Aug 15 02:58 : client: [1] opened from 127.0.0.1:57384
+Aug 15 02:58 : client: [1] closed
+Aug 15 07:04 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 16 04:27 : avahi: Service 'Music Player' successfully established.
+Aug 16 10:09 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 16 10:10 : avahi: Service 'Music Player' successfully established.
+Aug 16 10:18 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 20 02:27 : avahi: Service 'Music Player' successfully established.
+Aug 20 12:50 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 20 12:52 : avahi: Service 'Music Player' successfully established.
+Aug 20 14:07 : avahi: Service 'Music Player' successfully established.
+Aug 20 15:00 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 20 23:47 : avahi: Service 'Music Player' successfully established.
+Aug 21 09:26 : client: [0] opened from 127.0.0.1:37492
+Aug 21 09:28 : client: [0] closed
+Aug 21 09:31 : client: [1] opened from 127.0.0.1:37498
+Aug 21 09:32 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 21 09:34 : client: [1] closed
+Aug 21 09:35 : client: [2] opened from 127.0.0.1:37500
+Aug 21 09:35 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Aug 21 09:35 : client: [2] closed
+Aug 22 04:44 : avahi: Service 'Music Player' successfully established.
+Aug 22 07:20 : client: [0] opened from 127.0.0.1:45788
+Aug 22 09:02 : client: [1] opened from 127.0.0.1:46352
+Aug 22 09:08 : client: [0] closed
+Aug 22 09:10 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Aug 22 09:15 : player: played "3FORCE/2015 - Intergalactic/02 Intrusion.mp3"
+Aug 22 09:19 : player: played "3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3"
+Aug 22 09:30 : client: [1] closed
+Aug 22 09:49 : avahi: Client Disconnected, will reconnect shortly
+Aug 22 16:21 : avahi: Service 'Music Player' successfully established.
+Aug 24 22:10 : avahi: Service 'Music Player' successfully established.
+Aug 25 03:07 : avahi: Service 'Music Player' successfully established.
+Aug 25 13:44 : avahi: Service 'Music Player' successfully established.
+Aug 29 21:52 : avahi: Service 'Music Player' successfully established.
+Aug 29 22:08 : avahi: Service 'Music Player' successfully established.
+Aug 30 09:29 : avahi: Service 'Music Player' successfully established.
+Aug 30 10:13 : avahi: Service 'Music Player' successfully established.
+Aug 30 19:52 : avahi: Service 'Music Player' successfully established.
+Aug 30 21:25 : avahi: Service 'Music Player' successfully established.
+Aug 30 23:16 : avahi: Service 'Music Player' successfully established.
+Aug 31 00:19 : client: [0] opened from 127.0.0.1:51420
+Aug 31 00:21 : client: [0] closed
+Aug 31 00:24 : client: [1] opened from 127.0.0.1:51422
+Aug 31 00:25 : client: [1] closed
+Aug 31 00:25 : client: [2] opened from 127.0.0.1:51424
+Aug 31 00:26 : client: [2] closed
+Aug 31 00:27 : client: [3] opened from 127.0.0.1:51426
+Aug 31 00:31 : client: [3] closed
+Aug 31 00:36 : client: [4] opened from 127.0.0.1:51428
+Aug 31 00:38 : client: [4] closed
+Aug 31 00:38 : client: [5] opened from 127.0.0.1:51430
+Aug 31 00:40 : client: [5] closed
+Aug 31 00:40 : client: [6] opened from 127.0.0.1:51432
+Aug 31 00:41 : client: [6] closed
+Aug 31 00:42 : client: [7] opened from 127.0.0.1:51434
+Aug 31 00:42 : client: [7] closed
+Aug 31 00:43 : client: [8] opened from 127.0.0.1:51436
+Aug 31 00:43 : client: [8] closed
+Aug 31 00:43 : client: [9] opened from 127.0.0.1:51438
+Aug 31 00:44 : client: [9] closed
+Aug 31 00:50 : client: [10] opened from 127.0.0.1:51440
+Aug 31 00:50 : client: [10] closed
+Aug 31 00:52 : client: [11] opened from 127.0.0.1:51442
+Aug 31 00:52 : client: [11] closed
+Aug 31 00:54 : client: [12] opened from 127.0.0.1:51444
+Aug 31 00:54 : client: [12] closed
+Aug 31 00:57 : client: [13] opened from 127.0.0.1:51446
+Aug 31 00:57 : client: [13] closed
+Aug 31 00:59 : client: [14] opened from 127.0.0.1:51448
+Aug 31 00:59 : client: [14] closed
+Aug 31 01:11 : client: [15] opened from 127.0.0.1:51450
+Aug 31 01:14 : client: [15] closed
+Aug 31 01:15 : client: [16] opened from 127.0.0.1:51452
+Aug 31 01:24 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Aug 31 01:29 : player: played "3FORCE/2015 - Intergalactic/02 Intrusion.mp3"
+Aug 31 01:34 : player: played "3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3"
+Aug 31 01:37 : player: played "3FORCE/2015 - Intergalactic/04 Manhattan lights.mp3"
+Aug 31 01:42 : player: played "3FORCE/2015 - Intergalactic/05 Celestial squad.mp3"
+Aug 31 01:46 : player: played "3FORCE/2015 - Intergalactic/06 Intermission.mp3"
+Aug 31 01:51 : player: played "3FORCE/2015 - Intergalactic/07 Nuclear sunday.mp3"
+Aug 31 01:56 : player: played "3FORCE/2015 - Intergalactic/08 Intergalactic.mp3"
+Aug 31 02:02 : player: played "3FORCE/2017 - Resistance/01 Neoguard.mp3"
+Aug 31 02:05 : player: played "3FORCE/2017 - Resistance/02 Clampdown.mp3"
+Aug 31 02:10 : player: played "3FORCE/2017 - Resistance/03 Resistance.mp3"
+Aug 31 02:14 : player: played "3FORCE/2017 - Resistance/04 Whisper protocol.mp3"
+Aug 31 02:20 : player: played "3FORCE/2017 - Resistance/05 Grand design.mp3"
+Aug 31 02:26 : player: played "3FORCE/2017 - Resistance/06 Cliffhanger.mp3"
+Aug 31 02:31 : player: played "3FORCE/2017 - Resistance/07 Zero day union.mp3"
+Aug 31 02:36 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Aug 31 02:40 : player: played "3FORCE/2017 - Resistance/09 Rebellion.mp3"
+Aug 31 02:44 : player: played "3FORCE/2017 - Resistance/10 The better world.mp3"
+Aug 31 02:45 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Aug 31 02:50 : player: played "Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3"
+Aug 31 02:54 : player: played "Future Holotape/2014 - Analog renegades/03 Light racer.mp3"
+Aug 31 02:58 : player: played "Future Holotape/2014 - Analog renegades/04 Midnight revolver.mp3"
+Aug 31 03:02 : player: played "Future Holotape/2014 - Analog renegades/05 Summer in love.mp3"
+Aug 31 03:05 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Aug 31 03:08 : player: played "Future Holotape/2014 - Analog renegades/07 The lawgiver.mp3"
+Aug 31 03:12 : player: played "Future Holotape/2014 - Analog renegades/08 Life sequence.mp3"
+Aug 31 03:17 : player: played "Future Holotape/2014 - Analog renegades/09 Replicant.mp3"
+Aug 31 03:20 : player: played "Future Holotape/2014 - Analog renegades/10 The discotech.mp3"
+Aug 31 03:24 : player: played "Future Holotape/2014 - Analog renegades/11 Belladonna.mp3"
+Aug 31 03:28 : player: played "Future Holotape/2014 - Analog renegades/12 Long hiver.mp3"
+Aug 31 03:33 : player: played "Future Holotape/2014 - Analog renegades/13 Renegade.mp3"
+Aug 31 03:34 : player: played "Future Holotape/2017 - Terra district 1/01 Terra district 1.mp3"
+Aug 31 03:39 : player: played "Future Holotape/2017 - Terra district 1/02 Cloak and dagger.mp3"
+Aug 31 03:44 : player: played "Future Holotape/2017 - Terra district 1/03 Rogue.mp3"
+Aug 31 03:49 : player: played "Future Holotape/2017 - Terra district 1/04 Blood call.mp3"
+Aug 31 03:53 : player: played "Future Holotape/2017 - Terra district 1/05 Data corrupt.mp3"
+Aug 31 03:59 : player: played "Future Holotape/2017 - Terra district 1/06 Outer limits.mp3"
+Aug 31 04:04 : player: played "Future Holotape/2017 - Terra district 1/07 Desolation.mp3"
+Aug 31 04:10 : player: played "Future Holotape/2017 - Terra district 1/08 Dead eye.mp3"
+Aug 31 04:14 : player: played "Future Holotape/2017 - Terra district 1/09 Proxy.mp3"
+Aug 31 04:20 : player: played "Future Holotape/2017 - Terra district 1/10 Sentient.mp3"
+Aug 31 04:25 : player: played "Future Holotape/2017 - Terra district 1/11 Resurrection.mp3"
+Aug 31 04:26 : player: played "Future Holotape/2017 - Terra district 1/12 Paradox.mp3"
+Aug 31 04:34 : player: played "Future Holotape/2017 - Terra district 1/13 Indoctrinated.mp3"
+Aug 31 06:33 : avahi: Client Disconnected, will reconnect shortly
+Aug 31 18:22 : avahi: Service 'Music Player' successfully established.
+Sep 01 12:04 : avahi: Service 'Music Player' successfully established.
+Sep 06 11:40 : avahi: Service 'Music Player' successfully established.
+Sep 06 12:47 : client: [0] opened from 127.0.0.1:52574
+Sep 06 12:53 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Sep 06 12:58 : player: played "3FORCE/2015 - Intergalactic/02 Intrusion.mp3"
+Sep 06 13:03 : player: played "3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3"
+Sep 06 13:06 : player: played "3FORCE/2015 - Intergalactic/04 Manhattan lights.mp3"
+Sep 06 13:11 : player: played "3FORCE/2015 - Intergalactic/05 Celestial squad.mp3"
+Sep 06 13:15 : player: played "3FORCE/2015 - Intergalactic/06 Intermission.mp3"
+Sep 06 13:20 : player: played "3FORCE/2015 - Intergalactic/07 Nuclear sunday.mp3"
+Sep 06 13:25 : player: played "3FORCE/2015 - Intergalactic/08 Intergalactic.mp3"
+Sep 06 13:31 : player: played "3FORCE/2017 - Resistance/01 Neoguard.mp3"
+Sep 06 13:34 : player: played "3FORCE/2017 - Resistance/02 Clampdown.mp3"
+Sep 06 13:39 : player: played "3FORCE/2017 - Resistance/03 Resistance.mp3"
+Sep 06 13:43 : player: played "3FORCE/2017 - Resistance/04 Whisper protocol.mp3"
+Sep 06 13:49 : player: played "3FORCE/2017 - Resistance/05 Grand design.mp3"
+Sep 06 13:55 : player: played "3FORCE/2017 - Resistance/06 Cliffhanger.mp3"
+Sep 06 13:56 : player: played "3FORCE/2017 - Resistance/07 Zero day union.mp3"
+Sep 06 15:03 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Sep 06 15:05 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Sep 06 15:10 : player: played "Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3"
+Sep 06 15:13 : player: played "Future Holotape/2014 - Analog renegades/03 Light racer.mp3"
+Sep 06 15:18 : player: played "Future Holotape/2014 - Analog renegades/04 Midnight revolver.mp3"
+Sep 06 15:22 : player: played "Future Holotape/2014 - Analog renegades/05 Summer in love.mp3"
+Sep 06 15:25 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Sep 06 15:28 : player: played "Future Holotape/2014 - Analog renegades/07 The lawgiver.mp3"
+Sep 06 15:32 : player: played "Future Holotape/2014 - Analog renegades/08 Life sequence.mp3"
+Sep 06 15:34 : player: played "Future Holotape/2014 - Analog renegades/09 Replicant.mp3"
+Sep 06 15:34 : client: [0] closed
+Sep 14 11:57 : avahi: Service 'Music Player' successfully established.
+Sep 14 12:06 : client: [0] opened from 127.0.0.1:56680
+Sep 14 12:07 : client: [0] closed
+Sep 14 15:20 : avahi: Service 'Music Player' successfully established.
+Sep 15 15:12 : avahi: Service 'Music Player' successfully established.
+Sep 15 22:47 : avahi: Service 'Music Player' successfully established.
+Sep 21 10:56 : avahi: Service 'Music Player' successfully established.
+Sep 21 13:41 : avahi: Service 'Music Player' successfully established.
+Sep 21 19:22 : avahi: Service 'Music Player' successfully established.
+Sep 21 19:39 : avahi: Service 'Music Player' successfully established.
+Sep 21 19:49 : avahi: Service 'Music Player' successfully established.
+Sep 21 20:04 : avahi: Client Disconnected, will reconnect shortly
+Sep 21 20:45 : avahi: Service 'Music Player' successfully established.
+Sep 22 12:23 : avahi: Service 'Music Player' successfully established.
+Sep 22 13:29 : client: [0] opened from 127.0.0.1:60934
+Sep 22 13:29 : player: played "3FORCE/2015 - Intergalactic/08 Intergalactic.mp3"
+Sep 22 13:29 : client: [0] closed
+Sep 22 13:55 : avahi: Service 'Music Player' successfully established.
+Sep 22 13:57 : client: [0] opened from 127.0.0.1:56256
+Sep 22 13:57 : client: [0] closed
+Sep 22 17:42 : avahi: Service 'Music Player' successfully established.
+Sep 22 18:59 : avahi: Service 'Music Player' successfully established.
+Sep 22 22:47 : avahi: Service 'Music Player' successfully established.
+Sep 23 00:41 : client: [0] opened from 127.0.0.1:58796
+Sep 23 00:41 : player: played "3FORCE/2015 - Intergalactic/08 Intergalactic.mp3"
+Sep 23 00:41 : client: [0] closed
+Sep 23 01:53 : client: [1] opened from 127.0.0.1:58826
+Sep 23 01:53 : player: played "3FORCE/2017 - Resistance/01 Neoguard.mp3"
+Sep 23 01:53 : client: [1] closed
+Sep 26 21:28 : avahi: Service 'Music Player' successfully established.
+Sep 28 12:45 : avahi: Service 'Music Player' successfully established.
+Sep 28 22:10 : avahi: Service 'Music Player' successfully established.
+Sep 29 20:47 : avahi: Service 'Music Player' successfully established.
+Sep 30 20:00 : avahi: Service 'Music Player' successfully established.
+Oct 01 00:00 : client: [0] opened from 127.0.0.1:38136
+Oct 01 00:01 : client: [0] closed
+Oct 01 00:09 : client: [1] opened from 127.0.0.1:38152
+Oct 01 00:09 : client: [1] closed
+Oct 14 19:06 : avahi: Service 'Music Player' successfully established.
+Oct 14 19:24 : avahi: Service 'Music Player' successfully established.
+Oct 14 20:07 : avahi: Service 'Music Player' successfully established.
+Oct 14 21:07 : avahi: Service 'Music Player' successfully established.
+Oct 24 11:43 : avahi: Service 'Music Player' successfully established.
+Oct 24 13:02 : client: [0] opened from 127.0.0.1:47154
+Oct 24 13:08 : player: played "3FORCE/2015 - Intergalactic/01 Nuke.mp3"
+Oct 24 13:13 : player: played "3FORCE/2015 - Intergalactic/02 Intrusion.mp3"
+Oct 24 13:14 : client: [0] closed
+Oct 24 13:14 : client: [1] opened from 127.0.0.1:47216
+Oct 24 13:14 : player: played "3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3"
+Oct 24 13:14 : client: [1] closed
+Oct 24 13:15 : client: [2] opened from 127.0.0.1:47218
+Oct 24 13:21 : player: played "3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3"
+Oct 24 13:23 : player: played "3FORCE/2015 - Intergalactic/04 Manhattan lights.mp3"
+Oct 24 13:28 : player: played "3FORCE/2015 - Intergalactic/05 Celestial squad.mp3"
+Oct 24 13:32 : player: played "3FORCE/2015 - Intergalactic/06 Intermission.mp3"
+Oct 24 13:37 : player: played "3FORCE/2015 - Intergalactic/07 Nuclear sunday.mp3"
+Oct 24 13:39 : player: played "3FORCE/2015 - Intergalactic/08 Intergalactic.mp3"
+Oct 24 13:39 : client: [2] closed
+Oct 24 13:39 : client: [3] opened from 127.0.0.1:47456
+Oct 24 13:39 : client: [3] closed
+Oct 24 13:40 : avahi: Client Disconnected, will reconnect shortly
+Nov 08 12:40 : avahi: Service 'Music Player' successfully established.
+Nov 08 14:20 : avahi: Service 'Music Player' successfully established.
+Nov 08 21:49 : avahi: Service 'Music Player' successfully established.
+Nov 09 12:49 : avahi: Service 'Music Player' successfully established.
+Nov 11 02:59 : avahi: Service 'Music Player' successfully established.
+Nov 13 18:20 : avahi: Client Disconnected, will reconnect shortly
+Nov 13 18:21 : avahi: Service 'Music Player' successfully established.
+Nov 14 14:54 : avahi: Service 'Music Player' successfully established.
+Nov 14 19:24 : avahi: Service 'Music Player' successfully established.
+Nov 14 21:31 : avahi: Service 'Music Player' successfully established.
+Nov 15 00:14 : avahi: Service 'Music Player' successfully established.
+Nov 15 01:28 : avahi: Service 'Music Player' successfully established.
+Nov 15 02:56 : avahi: Service 'Music Player' successfully established.
+Nov 15 16:35 : avahi: Service 'Music Player' successfully established.
+Nov 15 17:42 : avahi: Service 'Music Player' successfully established.
+Nov 25 02:34 : avahi: Service 'Music Player' successfully established.
+Nov 25 06:55 : avahi: Client Disconnected, will reconnect shortly
+Nov 26 04:29 : avahi: Service 'Music Player' successfully established.
+Nov 27 03:24 : avahi: Service 'Music Player' successfully established.
+Nov 28 02:53 : avahi: Service 'Music Player' successfully established.
+Nov 29 01:09 : avahi: Service 'Music Player' successfully established.
+Nov 30 19:08 : avahi: Service 'Music Player' successfully established.
+Dec 06 13:31 : avahi: Service 'Music Player' successfully established.
+Dec 06 15:58 : avahi: Service 'Music Player' successfully established.
+Dec 09 01:42 : avahi: Service 'Music Player' successfully established.
+Dec 14 19:04 : avahi: Service 'Music Player' successfully established.
+Dec 25 11:53 : avahi: Service 'Music Player' successfully established.
+Dec 25 13:08 : avahi: Client Disconnected, will reconnect shortly
+Dec 26 04:38 : avahi: Service 'Music Player' successfully established.
+Dec 26 07:24 : avahi: Service 'Music Player' successfully established.
+Dec 26 12:10 : client: [0] opened from 127.0.0.1:41694
+Dec 26 12:11 : client: [0] closed
+Dec 26 13:44 : client: [1] opened from 127.0.0.1:41816
+Dec 26 13:44 : client: [1] closed
+Dec 26 13:45 : client: [2] opened from 127.0.0.1:41818
+Dec 26 13:45 : client: [2] closed
+Dec 26 13:47 : client: [3] opened from 127.0.0.1:41820
+Dec 26 13:48 : client: [3] closed
+Dec 26 13:57 : client: [4] opened from 127.0.0.1:41830
+Dec 26 13:57 : client: [4] closed
+Dec 26 13:58 : client: [5] opened from 127.0.0.1:41832
+Dec 26 13:58 : client: [5] closed
+Dec 26 14:09 : client: [6] opened from 127.0.0.1:41834
+Dec 26 14:10 : client: [6] closed
+Jan 01 10:39 : avahi: Service 'Music Player' successfully established.
+Jan 01 11:43 : avahi: Client Disconnected, will reconnect shortly
+Jan 03 06:44 : avahi: Service 'Music Player' successfully established.
+Jan 03 07:21 : avahi: Service 'Music Player' successfully established.
+Jan 03 08:48 : client: [0] opened from 127.0.0.1:50696
+Jan 03 08:50 : client: [1] opened from 127.0.0.1:50708
+Jan 03 08:51 : player: played "Hubrid/2016 - PROTOTYPE/01 Horizon.mp3"
+Jan 03 08:51 : client: [0] closed
+Jan 03 08:51 : client: [1] closed
+Jan 05 14:34 : avahi: Service 'Music Player' successfully established.
+Jan 05 19:13 : client: [0] opened from 127.0.0.1:54264
+Jan 05 19:13 : client: [0] closed
+Jan 05 19:14 : client: [1] opened from 127.0.0.1:54266
+Jan 05 19:14 : client: [1] closed
+Jan 06 07:11 : avahi: Service 'Music Player' successfully established.
+Jan 06 09:09 : client: [0] opened from 127.0.0.1:56492
+Jan 06 09:10 : client: [1] opened from 127.0.0.1:56494
+Jan 06 09:18 : client: [1] closed
+Jan 06 09:18 : client: [0] closed
+Jan 06 09:18 : player: played "3FORCE/2017 - Resistance/01 Neoguard.mp3"
+Jan 06 09:22 : player: played "3FORCE/2017 - Resistance/02 Clampdown.mp3"
+Jan 06 09:27 : player: played "3FORCE/2017 - Resistance/03 Resistance.mp3"
+Jan 06 09:31 : player: played "3FORCE/2017 - Resistance/04 Whisper protocol.mp3"
+Jan 06 09:37 : player: played "3FORCE/2017 - Resistance/05 Grand design.mp3"
+Jan 06 09:43 : player: played "3FORCE/2017 - Resistance/06 Cliffhanger.mp3"
+Jan 06 09:48 : player: played "3FORCE/2017 - Resistance/07 Zero day union.mp3"
+Jan 06 09:52 : player: played "3FORCE/2017 - Resistance/08 Suppress it.mp3"
+Jan 06 09:56 : player: played "3FORCE/2017 - Resistance/09 Rebellion.mp3"
+Jan 06 10:00 : player: played "3FORCE/2017 - Resistance/10 The better world.mp3"
+Jan 06 10:02 : player: played "Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3"
+Jan 06 10:07 : player: played "Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3"
+Jan 06 10:10 : player: played "Future Holotape/2014 - Analog renegades/03 Light racer.mp3"
+Jan 06 10:14 : player: played "Future Holotape/2014 - Analog renegades/04 Midnight revolver.mp3"
+Jan 06 10:18 : player: played "Future Holotape/2014 - Analog renegades/05 Summer in love.mp3"
+Jan 06 10:21 : pulse_output: "My Pulse Output" [pulse] failed to play: disconnected
+Jan 06 10:21 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 10 15:59 : avahi: Service 'Music Player' successfully established.
+Jan 10 22:23 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 11 14:18 : avahi: Service 'Music Player' successfully established.
+Jan 11 17:44 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 13 09:58 : avahi: Service 'Music Player' successfully established.
+Jan 13 11:21 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 13 11:23 : avahi: Service 'Music Player' successfully established.
+Jan 13 15:03 : avahi: Client Disconnected, will reconnect shortly
+Jan 13 15:03 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 20 16:47 : avahi: Service 'Music Player' successfully established.
+Jan 20 16:59 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 20 17:02 : avahi: Service 'Music Player' successfully established.
+Jan 20 17:12 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 20 17:14 : avahi: Service 'Music Player' successfully established.
+Jan 20 17:31 : client: [0] opened from 127.0.0.1:54862
+Jan 20 17:33 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
+Jan 20 17:33 : player: played "Future Holotape/2014 - Analog renegades/07 The lawgiver.mp3"
+Jan 20 17:33 : client: [0] closed

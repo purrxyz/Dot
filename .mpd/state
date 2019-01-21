@@ -1,0 +1,59 @@
+sw_volume: 82
+audio_device_state:1:My Pulse Output
+audio_device_state:1:toggle_visualizer
+state: stop
+current: 24
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:3FORCE/2015 - Intergalactic/01 Nuke.mp3
+1:3FORCE/2015 - Intergalactic/02 Intrusion.mp3
+2:3FORCE/2015 - Intergalactic/03 Highway Jupiter.mp3
+3:3FORCE/2015 - Intergalactic/04 Manhattan lights.mp3
+4:3FORCE/2015 - Intergalactic/05 Celestial squad.mp3
+5:3FORCE/2015 - Intergalactic/06 Intermission.mp3
+6:3FORCE/2015 - Intergalactic/07 Nuclear sunday.mp3
+7:3FORCE/2015 - Intergalactic/08 Intergalactic.mp3
+8:3FORCE/2017 - Resistance/01 Neoguard.mp3
+9:3FORCE/2017 - Resistance/02 Clampdown.mp3
+10:3FORCE/2017 - Resistance/03 Resistance.mp3
+11:3FORCE/2017 - Resistance/04 Whisper protocol.mp3
+12:3FORCE/2017 - Resistance/05 Grand design.mp3
+13:3FORCE/2017 - Resistance/06 Cliffhanger.mp3
+14:3FORCE/2017 - Resistance/07 Zero day union.mp3
+15:3FORCE/2017 - Resistance/08 Suppress it.mp3
+16:3FORCE/2017 - Resistance/09 Rebellion.mp3
+17:3FORCE/2017 - Resistance/10 The better world.mp3
+18:Future Holotape/2014 - Analog renegades/01 Fortress of solitude.mp3
+19:Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3
+20:Future Holotape/2014 - Analog renegades/03 Light racer.mp3
+21:Future Holotape/2014 - Analog renegades/04 Midnight revolver.mp3
+22:Future Holotape/2014 - Analog renegades/05 Summer in love.mp3
+23:Future Holotape/2014 - Analog renegades/06 Moments in time.mp3
+24:Future Holotape/2014 - Analog renegades/07 The lawgiver.mp3
+25:Future Holotape/2014 - Analog renegades/08 Life sequence.mp3
+26:Future Holotape/2014 - Analog renegades/09 Replicant.mp3
+27:Future Holotape/2014 - Analog renegades/10 The discotech.mp3
+28:Future Holotape/2014 - Analog renegades/11 Belladonna.mp3
+29:Future Holotape/2014 - Analog renegades/12 Long hiver.mp3
+30:Future Holotape/2014 - Analog renegades/13 Renegade.mp3
+31:Future Holotape/2017 - Terra district 1/01 Terra district 1.mp3
+32:Future Holotape/2017 - Terra district 1/02 Cloak and dagger.mp3
+33:Future Holotape/2017 - Terra district 1/03 Rogue.mp3
+34:Future Holotape/2017 - Terra district 1/04 Blood call.mp3
+35:Future Holotape/2017 - Terra district 1/05 Data corrupt.mp3
+36:Future Holotape/2017 - Terra district 1/06 Outer limits.mp3
+37:Future Holotape/2017 - Terra district 1/07 Desolation.mp3
+38:Future Holotape/2017 - Terra district 1/08 Dead eye.mp3
+39:Future Holotape/2017 - Terra district 1/09 Proxy.mp3
+40:Future Holotape/2017 - Terra district 1/10 Sentient.mp3
+41:Future Holotape/2017 - Terra district 1/11 Resurrection.mp3
+42:Future Holotape/2017 - Terra district 1/12 Paradox.mp3
+43:Future Holotape/2017 - Terra district 1/13 Indoctrinated.mp3
+44:Hubrid/2016 - PROTOTYPE/01 Horizon.mp3
+playlist_end
