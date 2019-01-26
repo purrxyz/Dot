@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Show memory used / available
+free -h | awk '/^Mem:/ {print $3 "/" $2}'
+
+case $BLOCK_BUTTON in
+        1) pgrep -x dunst >/dev/null && notify-send "<b>Memory hanging processes:</b>
+        	$(ps axch -o cmd:15,%mem --sort=-%mem | head)" ;;
+        3) pgrep -x dunst >/dev/null && notify-send "<b>:Ram module:</b>
+- Left click to show ram usage
+- Right click to show this help message" ;;
+esac
+
+
