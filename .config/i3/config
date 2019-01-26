@@ -100,13 +100,13 @@ bindsym $mod+a focus parent
 set $workspace1 "" 
 set $workspace2 ""
 set $workspace3 ""
-set $workspace4 ""
-set $workspace5 ""
-set $workspace6 "6"
-set $workspace7 "7"
-set $workspace8 "8"
-set $workspace9 "9"
-set $workspace10 " "
+set $workspace4 ""
+set $workspace5 ""
+set $workspace6 ""
+set $workspace7 ""
+set $workspace8 ""
+set $workspace9 ""
+set $workspace10 ""
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
@@ -118,6 +118,7 @@ bindsym $mod+6 workspace $workspace6
 bindsym $mod+7 workspace $workspace7
 bindsym $mod+8 workspace $workspace8
 bindsym $mod+9 workspace $workspace9
+bindsym $mod+0 workspace $workspace10
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $workspace1
@@ -132,10 +133,6 @@ bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace10
 
 # Before assaign application class make sure whats the correct WM_CLASS use 'xprop' to see the correct class  
-#assign [class="URxvt"] $workspace1
-#assign [class="URxvt"] $workspace2
-assign [class="Luakit"] $workspace3
-assign [class="Pcmanfm"] $workspace4
 assign [class="Amarok"] $workspace10
 
 # reload the configuration file
@@ -261,20 +258,20 @@ exec_always compton -f
 # Enable calendar to open in floating mode instead of popup as normal tile.
 #for_window [class="Yad"] floating enable
 
-# More keybinding to applications
-bindsym $mod+p exec xpad
-bindsym $mod+q exec xpad -q
-bindsym $mod+Shift+a exec abrowser
-#bindsym $mod+Shift+i exec icecat
-bindsym $mod+Shift+m exec amarok
-bindsym $mod+Shift+i exec luakit
-bindsym $mod+Shift+p exec pcmanfm
-
-# keybindings for terminal apps
+# keybindings for terminal apps to load on a specific workspace
 #bindsym $mod+Shift+f exec urxvt -e ranger
-bindsym $mod+n exec urxvt -e ncmpcpp
-bindsym $mod+Shift+n exec urxvt -e newsboat
-bindsym $mod+Shift+f exec urxvt -e vifm
+#bindsym $mod+Shift+m workspace ; exec amarok
+bindsym $mod+Shift+m exec amarok
+bindsym $mod+n workspace ; exec urxvt -e ncmpcpp
+bindsym $mod+Shift+n workspace ; exec urxvt -e newsboat
+bindsym $mod+Shift+f workspace ; exec urxvt -e vifm
+bindsym $mod+Shift+p workspace ; exec pcmanfm
+bindsym $mod+y workspace ; exec urxvt -e mpsyt
+bindsym $mod+p workspace ; exec xpad
+bindsym $mod+q exec xpad -q
+bindsym $mod+Shift+a workspace ; exec abrowser
+bindsym $mod+Shift+i workspace ; exec luakit
+#bindsym $mod+Shift+i exec icecat
 
 # Take screen shot with scrot and moves to a destinatio n directory
 bindsym --release Print exec scrot '%Y-%m-%d_%H-%M-%S_$wx$h.png' -e 'mv $f ~/Pictures/Screenshots/'
