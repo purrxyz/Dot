@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=oomox-adventure_time
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=oomox-adventure_time_1
+MetacityTheme=oomox-adventure_time_1
+IconTheme=ACYL_Icon_Theme_0.9.4
+GtkColorScheme=base_color:#1a1a1a,bg_color:#000000,tooltip_bg_color:#000000,selected_bg_color:#4d4d4d,text_color:#8f9191,fg_color:#8f9191,tooltip_fg_color:#8f9191,selected_fg_color:#a00202,menubar_bg_color:#000000,menubar_fg_color:#8f9191,toolbar_bg_color:#000000,toolbar_fg_color:#8f9191,menu_bg_color:#000000,menu_fg_color:#8f9191,panel_bg_color:#000000,panel_fg_color:#8f9191,link_color:#00979f,btn_bg_color:#1a1a1a,btn_fg_color:#888a85,titlebar_bg_color:#000000,titlebar_fg_color:#8f9191,primary_caret_color:#080517,secondary_caret_color:#080517,accent_bg_color:#a00202,
+CursorTheme=default
+CursorSize=18

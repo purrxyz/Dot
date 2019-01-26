@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=oomox-krekl
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=oomox-krekl
+MetacityTheme=oomox-krekl
+IconTheme=ACYL_Icon_Theme_0.9.4
+GtkColorScheme=fg_color:#38383e3e4242,bg_color:#f2f2f4f4f4f4,text_color:#040403030808,base_color:#fcfcfcfcfcfc,selected_fg_color:#fcfcfcfcfcfc,selected_bg_color:#3d3daeaee9e9,tooltip_fg_color:#38383e3e4242,tooltip_bg_color:#f2f2f4f4f4f4
+CursorTheme=default
+CursorSize=18
+NotificationTheme=Coco
+BackgroundImage=/home/sepia/Wallpapers/Synthwave/wp2343959.jpg
