@@ -133,7 +133,7 @@ bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace10
 
 # Before assaign application class make sure whats the correct WM_CLASS use 'xprop' to see the correct class  
-assign [class="Amarok"] $workspace10
+#assign [class="Amarok"] $workspace10
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -202,7 +202,7 @@ bar {
 	font pango: System San Francisco Display, FontAwesome 10
 	#status_command i3status   # original i3bar
         # alternativ status bar i3blocks
-	status_command i3blocks -c ~/.i3/i3blocks.conf
+	status_command i3blocks -c ~/.config/i3/i3blocks.conf
 	tray_output primary
 	#stip_workspace_numbers yes
 	position top
@@ -249,8 +249,8 @@ exec_always compton -f
 
 # keybindings for terminal apps to load on a specific workspace
 #bindsym $mod+Shift+f exec urxvt -e ranger
-#bindsym $mod+Shift+m workspace ; exec amarok
-bindsym $mod+Shift+m exec amarok
+bindsym $mod+Shift+m workspace ; exec amarok
+#bindsym $mod+Shift+m exec amarok
 bindsym $mod+n workspace ; exec urxvt -e ncmpcpp
 bindsym $mod+Shift+n workspace ; exec urxvt -e newsboat
 bindsym $mod+Shift+f workspace ; exec urxvt -e vifm
