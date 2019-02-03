@@ -57,8 +57,10 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set)",
 [51]=":tabopen https://github.com/users/x60sepia/emails/66506058/confirm_verification/1bc0d497762e89fd92fde43c601a5d6ea83842ad",
 [52]=":tabopen https://github.com/password_reset/02cb3f416a90f0c6cba9067aaabbf3fba2ce3325d297374292ce5c45165683a5656d61696cb36d7568673030676c6540676d61696c2e636f6da5666f726365c2b374776f5f666163746f725f7665726966696564c2",
 [53]=":tabopen duckduckgo.org",
+[54]=":tabopen ",
+[55]=":settings",
+[56]=":tabopen https://www.youtube.com/",
 },
 {
-[1]="/music",
 },
 }

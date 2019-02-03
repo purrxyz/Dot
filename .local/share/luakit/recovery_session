@@ -1,0 +1,55 @@
+{{
+[1]={2},
+},
+{
+["closed"]={3},
+["open"]={4},
+},
+{
+[1]={5},
+[2]={6},
+[3]={7},
+[4]={8},
+},
+{
+[1]={9},
+},
+{
+["title"]="Bookmarks",
+["self_uid"]=0,
+["after_uid"]=1,
+["session_state"]="\1\0\0\0\0\0\0\0\9\0\0\0\0\0\0\0Bookmarks\0\0\0\0\0\0\0luakit://bookmarks/\0luakit://bookmarks/\0\0\0\0\0\0\0\0\0\"\17Sò\4\5\0!\17Sò\4\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0P***)(\20\0\1\0\0\0o\18v\0\0\0\0\0\127",
+["uri"]="luakit://bookmarks/",
+},
+{
+["title"]="",
+["self_uid"]=2,
+["after_uid"]=1,
+["session_state"]="\1\0\0\0\0\0\0\0\8",
+},
+{
+["title"]="Luakit settings",
+["self_uid"]=3,
+["after_uid"]=1,
+["session_state"]="\1\0\0\0\0\0\0\0\11\0\0\0\0\0\0\0Luakit settings\0luakit://settings/\0luakit://settings/\0\0\0\
+\13?% WebKit serialized form state version 8 \
+\13=&\0No owner\00071\0webview.hardware_acceleration_policy\0radio\0001\0off\0webview.hardware_acceleration_policy\0radio\0001\0on\0webview.hardware_acceleration_policy\0radio\0001\0off\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0text\0000\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0on\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0on\0\0checkbox\0001\0on\0\0checkbox\0001\0on\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0\0checkbox\0001\0on\0\0checkbox\0001\0off\0001\0:\0=\0b\0h\0j\0n\0“\0™\0›\0\0Ã\0É\0Ë\0Ï\0Ğ\0Õ\0×\0Ø\0İ\0ß\0à\0å\0ç\0è\0í\0ï\0ğ\0õ\0÷\0ø\0ı\0ÿ\0\0\1\5\1\7\1\8\1\13\1\15\1\16\1\21\1\23\1\24\1\29\1\31\1 \1%\1'\1(\1-\1/\0010\0015\0017\0018\1=\1?\1@\1E\1G\1H\1M\1O\1P\1U\1W\1X\1]\1_\1`\1e\1g\1h\1m\1o\1p\1u\1w\1x\1}\1\127\1€\1…\1‡\1ˆ\1\1\1\1™\1›\1Ÿ\1 \1©\1«\1¯\1°\1¹\1»\1¿\1À\1É\1Ë\1Ï\1Ğ\1Ù\1Û\1ß\1à\1é\1ë\1î\1ï\1ø\1ú\1ş\1ÿ\1\8\2\
+\2\14\2\15\2\24\2\26\2\30\2\31\2(\2*\2.\2/\0028\2:\2>\2?\2H\2J\2N\2O\2X\2Z\2]\2^\2g\2i\2l\2m\2v\2x\2{\2|\2…\2‡\2‹\2Œ\2•\2—\2š\2›\2¤\2¦\2©\2ª\2³\2µ\2¹\2º\2Ã\2Å\2É\2Ê\2Ó\2Õ\2Ø\2Ù\2â\2ä\2ç\2è\2ñ\2ó\2ö\2÷\2\0\3\2\3\5\3\6\3\15\3\17\3\20\3\21\3\30\3 \3$\3%\3.\0030\0034\0035\3>\3@\3C\3D\3M\3O\3S\3T\3]\3_\3c\3d\3m\3o\3s\3t\3}\3\127\3‚\3ƒ\3Œ\3\3’\3“\3œ\3\3¢\3£\3¬\3®\3²\3³\3¼\3¾\3Á\3Â\3Ë\3Í\3Ñ\3Ò\3Û\3İ\3à\3á\3ê\3ì\3ğ\3ñ\3ú\3ü\3\0\4\1\4\
+\4\12\4\15\4\16\4\25\4\27\4\31\4 \4)\4+\4.\4/\0048\4:\4>\4\0\0\0\0Mrlô\4\5\0Lrlô\4\5\0\0\0\0\0000\5\0\0\0\0\0\0\0\0ğ?˜\6t\6t\6(\0'\0&\0\19\0\0\0\1\0\0\0¾\6\24\0È\6\0\0\0\0\0\0Ò\6",
+["uri"]="luakit://settings/",
+},
+{
+["title"]="Building a Marsbase is a Horrible Idea: Letâ€™s do it! - YouTube",
+["self_uid"]=4,
+["after_uid"]=1,
+["session_state"]="\1\0\0\0\0\0\0\0\13\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0https://www.youtube.com/\0https://www.youtube.com/\0\0\0\6\0\0\0\2\9\0\0€entryTime\5GC\0\0\8\0\0€endpoint\2\15\0\0€commandMetadata\2\18\0\0€webCommandMetadata\2\3\0\0€url\16\1\0\0€/\11\0\0€webPageType\16\20\0\0€WEB_PAGE_TYPE_BROWSEÿÿÿÿÿÿÿÿÿÿÿÿ\19\0\0€savedComponentState\4ÿÿÿÿ\0\0\0\0\0\0\0\0n×¶\0\5\5\0m×¶\0\5\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ğ?about:blank\0about:blank\0\0<!--framePath //<!--frame1-->-->\0\0\0\0\0\0\0p×¶\0\5\5\0o×¶\0\5\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0`:::\25\24\12\0(ssssasmayxx(ii)dm(sa(uaysxmxmds))av)\8\1á\0004\0004\0003\0002\0\25\0\1\0\0\0´\1\9\0\0\0\0\0\15\0\0\0\0\0\0\0Building a Marsbase is a Horrible Idea: Letâ€™s do it! - YouTube\0\0\0\0\0\0\0\0https://www.youtube.com/watch?v=uqKGREZs6-w\0https://www.youtube.com/watch?v=uqKGREZs6-w\0\0\0\6\0\0\0\2\9\0\0€entryTime\5bC\0\0\8\0\0€endpoint\2\19\0\0€clickTrackingParams\16P\0\0€CHQQlDUYAiITCN7o0oXQoOACFZXZVQodvXcKciiOHjIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo\15\0\0€commandMetadata\2\18\0\0€webCommandMetadata\2\3\0\0€url\16\20\0\0€/watch?v=uqKGREZs6-w\11\0\0€webPageType\16\19\0\0€WEB_PAGE_TYPE_WATCHÿÿÿÿÿÿÿÿ\13\0\0€watchEndpoint\2\7\0\0€videoId\16\11\0\0€uqKGREZs6-wÿÿÿÿÿÿÿÿ\19\0\0€savedComponentState\4ÿÿÿÿ\0\0\0n×¶\0\5\5\0q×¶\0\5\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0about:blank\0about:blank\0\0<!--framePath //<!--frame0-->-->\0\0\0\0\0\0\0t×¶\0\5\5\0s×¶\0\5\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0`:::\25\24\12\0(ssssasmayxx(ii)dm(sa(uaysxmxmds))av)\0\0\0about:blank\0about:blank\0\0<!--framePath //<!--frame1-->-->\0\0\0\0\0\0\0p×¶\0\5\5\0o×¶\0\5\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0`:::\25\24\12\0(ssssasmayxx(ii)dm(sa(uaysxmxmds))av)\0\29\1Ø\1¶\1Z\0Z\0Y\0X\0,\0\0\1\0\0\0W\3I\0¼\1 \5\1\0\0\0,\5",
+["uri"]="https://www.youtube.com/watch?v=uqKGREZs6-w",
+},
+{
+["view_uid"]=1,
+["uri"]="https://surf.suckless.org/",
+["session_state"]="\1\0\0\0\0\0\0\0\3\0\0\0\0\0\0\0DuckDuckGo â€” Privacy, simplified.\0\0\0\0\0https://duckduckgo.com/\0https://duckduckgo.com/\0\0\0\0\0\0\0\0\0ïZÑç\4\5\0îZÑç\4\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ğ?https://duckduckgo.com/post2.html\0https://duckduckgo.com/post2.html\0https://duckduckgo.com/\0iframe_hidden\0\0\0\0\0\0\0ñZÑç\4\5\0ğZÑç\4\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0jjj\\D\"\0(ssssasmayxx(ii)dm(sa(uaysxmxmds))av)½X\0002\0002\0002\0001\0000\0\24\0\1\0\0\0T\1,\0\0\0\0\0\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0https://duckduckgo.com/?q=suckless&t=hi&ia=web\0https://duckduckgo.com/?q=suckless&t=hi\0https://duckduckgo.com/\0\0\6\0\0\0\2\1\0\0€q\16\8\0\0€suckless\1\0\0€t\16\2\0\0€hi\2\0\0€ia\16\3\0\0€webÿÿÿÿ\0\0\0óZÑç\4\5\0òZÑç\4\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ğ?https://duckduckgo.com/post2.html\0https://duckduckgo.com/post2.html\0https://duckduckgo.com/\0iframe_hidden\0\0\0\0\0\0\0õZÑç\4\5\0ôZÑç\4\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0jjj\\D\"\0(ssssasmayxx(ii)dm(sa(uaysxmxmds))av)½È\0¦\0p\0p\0o\0W\0/\0\0\0\0\0¤\1\9\0\0\0\0\0\7\0\0\0\0\0\0\0software that sucks less | suckless.org software that sucks less\0\0\0\0\0\0\0\0https://suckless.org/\0https://suckless.org/\0\0\0\0\0ùZÑç\4\5\0øZÑç\4\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ğ?P...-,\22\0\2\0\0\0§I\0\0\9\0\0\0\0\0\0\0tools | suckless.org software that sucks less\0\0\0https://tools.suckless.org/\0https://tools.suckless.org/\0\0\0\0\0\0\0\0\0ûZÑç\4\5\0úZÑç\4\5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ğ?`:::98\28\0\2\0\0\0Ÿ6\0\0\11\0\0\0\0\0\0\0surf | suckless.org software that sucks less\0\0\0\0https://surf.suckless.org/\0https://surf.suckless.org/\0\0\0ıZÑç\4\5\0üZÑç\4\5\0\0\0\0\0Z\1\0\0\0\0\0\0\0\0ğ?X88876\27\0\2\0\0\0—5\\\1\12\3¾\3f\4\6\5\4\0\0\0\24\5",
+["current"]=true,
+["ti"]=1,
+},
+}
