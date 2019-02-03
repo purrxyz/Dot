@@ -738,3 +738,6 @@ Jan 27 01:01 : client: [0] opened from 127.0.0.1:33686
 Jan 27 01:01 : player: played "Future Holotape/2014 - Analog renegades/02 Cult hallucinations.mp3"
 Jan 27 01:02 : player: played "Future Holotape/2014 - Analog renegades/06 Moments in time.mp3"
 Jan 27 01:02 : client: [0] closed
+Feb 04 00:23 : avahi: Service 'Music Player' successfully established.
+Feb 04 00:27 : avahi: Client Disconnected, will reconnect shortly
+Feb 04 00:27 : avahi: Service 'Music Player' successfully established.
