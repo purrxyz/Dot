@@ -207,3 +207,10 @@ source "$BASH_IT"/bash_it.sh
 MAIL=/var/spool/mail/sepia && export MAIL
 
 alias config='/usr/bin/git --git-dir=/home/sepia/Dot/ --work-tree=/home/sepia'
+
+alias ls='lsd'
+alias l='ls -l'
+alias la='ls -a'
+alias lla='ls -la'
+alias lt='ls --tree'
+
