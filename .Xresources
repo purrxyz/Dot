@@ -45,7 +45,8 @@ URxvt*cursorColor:	#8c9dc1
 URxvt*depth:		32
 URxvt*foreground:	#8c9dc1
 URxvt.colorUL:		#4682B4
-URxvt.font:		xft:AnonymousPro for Powerline:regular:size=11
+URxvt.font:		xft:FuraCode Nerd Font Mono:pixelsize=12,style=Retina,Regular
+!URxvt.font:		xft:Anonymice Powerline:regular:size=9
 URxvt.foreground:	#eeeeee
 URxvt.keysym.M-Escape:	perl:keyboard-select:activate
 URxvt.keysym.M-s:	perl:keyboard-select:search
@@ -53,14 +54,14 @@ URxvt.keysym.M-u:	perl:url-select:select_next
 URxvt.perl-ext-common:	defaults,resize-font,url-select,keyboard-select
 URxvt.resize-font.bigger:	C-Up
 URxvt.resize-font.reset:	C-equal
-URxvt.resize-font.show:	C-slash
+URxvt.resize-font.show:		C-slash
 URxvt.resize-font.smaller:	C-Down
 URxvt.scrollBar:	false
 URxvt.secondaryScreen:	1
 URxvt.secondaryScroll:	0
 URxvt.shading:	20
 URxvt.transparent:	true
-URxvt.url-select.lancher:	luakit
+URxvt.url-select.lancher:	lynx
 URxvt.url-select.underline:	true
 XClock*background:	#0a010c
 XClock*foreground:	#8c9dc1
@@ -72,7 +73,8 @@ XClock*secondColor:	rgba:8c/9d/c1/ff
 XTerm*background:	#0a010c
 XTerm*cursorColor:	#8c9dc1
 XTerm*foreground:	#9c9dc1
-XTerm*faceName:		DejaVu Sans Mono for Powerline 
+!XTerm*faceName:		DejaVu Sans Mono for Powerline:regular:size=9 
+XTerm*faceName:		Hack Nerd Font:regular:size=9
 Xpdf*fileFilterStyle:	filter_hidden_files
 emacs*background:	#0a010c
 emacs*foreground:	#8c9dc1
