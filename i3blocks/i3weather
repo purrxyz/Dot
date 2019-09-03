@@ -1,9 +1,8 @@
 #!/bin/bash
 ### This is only if your location isn't automatically detected, otherwise you can leave it blank.
-location="Sfantu-Gheorghe,Covasna,Ro"
-#location=""
+location=""
 
-[[ $BLOCK_BUTTON = "1" ]] && st -e w3m wttr.in/Sfantu-Gheorghe,Covasna,Ro
+[[ $BLOCK_BUTTON = "1" ]] && st -e w3m wttr.in/$location
 
 ping -q -w 1 -c 1 `ip r | grep default | cut -d ' ' -f 3` >/dev/null || exit
 
