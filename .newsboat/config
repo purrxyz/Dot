@@ -34,11 +34,4 @@ macro t set browser "tsp youtube-dl --add-metadata -ic"; open-in-browser ; set b
 macro a set browser "tsp youtube-dl --add-metadata -xic -f bestaudio/best"; open-in-browser ; set browser ~/.newsboat/linkhandler
 macro v set browser "setsid nohup mpv"; open-in-browser ; set browser ~/.newsboat/linkhandler
 macro w set browser "luakit"; open-in-browser ; set browser ~/.newsboat/linkhandler
-macro s set browser "~/.bitchute/bitchute-dl"; open-in-browser ; set browser ~/.newsboat/linkhandler
-macro b set browser "~/.bitchute/bitchute-play"; open-in-browser ; set browser ~/.newsboat/linkhandler
 #macro p set browser "~/.newsboat/dmenuhandler"; open-in-browser ; set browser ~/.newsboat/linkhandler
-
-# c copies the link to the clipboard.
-# The line below is probably the skiddiest line I've ever written.
-#macro c set browser "copy(){ echo $1 | xclip ;}; copy "; open-in-browser ; set browser ~/.newsboat/linkhandler
-macro c set browser "xsel -b <<<" ; open-in-browser ; set browser linkandle
